@@ -1,5 +1,4 @@
 # Ghost Gunt
-<hr>
 
 * Requirements-
 <ol>
